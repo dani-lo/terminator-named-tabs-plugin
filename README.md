@@ -1,4 +1,4 @@
-## Terminator window size and position manager plugin
+## Terminator named tabs plugin
 
 ### About
 
